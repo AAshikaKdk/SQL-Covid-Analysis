@@ -22,7 +22,7 @@ At the start of 2020, a novel disease known as COVID-19 instilled fear in all of
 - Which countries experienced the highest infection rate per population?
 - Which Continents had the highest death rate?
 - What was the ratio of Vaccination vs population og=f the countries?
-- What was the persentage of people vaccinated?
+- What was the percentage of people vaccinated?
 
 
 
